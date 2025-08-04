@@ -21,7 +21,7 @@ A simple registration form built using only HTML and CSS.
 2. Open `index.html` in any web browser.
 
 
-# 📁 Project 2: Task Manager (JavaScript & Bootstrap)
+# Project 2: Task Manager (JavaScript & Bootstrap)
 
 ## Objective
 A simple Task Manager web page using JavaScript for dynamic behavior and Bootstrap for responsive design. Users can manage task list effectively.
