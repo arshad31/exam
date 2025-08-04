@@ -4,7 +4,7 @@
 A simple registration form built using only HTML and CSS.
 
 ## Technologies Used
-- HTML5  
+- HTML 
 - CSS3  
 
 ## Form Contents
@@ -21,7 +21,7 @@ A simple registration form built using only HTML and CSS.
 2. Open `index.html` in any web browser.
 
 
-# Project 2: Task Manager (JavaScript & Bootstrap)
+# Project 2: Task Manager
 
 ## Objective
 A simple Task Manager web page using JavaScript for dynamic behavior and Bootstrap for responsive design. Users can manage task list effectively.
@@ -35,9 +35,9 @@ A simple Task Manager web page using JavaScript for dynamic behavior and Bootstr
 - Display success alerts using Bootstrap components  
 
 ## Technologies Used
-- HTML5  
-- JavaScript (Vanilla)  
-- Bootstrap 5  
+- HTML
+- JavaScript  
+- Bootstrap 
 
 ## How to Run
 1. Download or clone the repository.
